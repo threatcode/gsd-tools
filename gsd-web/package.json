@@ -14,7 +14,7 @@
     "start": "node dist/ssr/index.js"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
+    "@quasar/extras": "^1.16.7",
     "axios": "^0.21.1",
     "babel-plugin-prismjs": "^2.1.0",
     "cookie-parser": "^1.4.6",
