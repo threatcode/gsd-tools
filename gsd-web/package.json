@@ -24,7 +24,7 @@
     "octokit": "^1.7.1",
     "prismjs": "^1.25.0",
     "quasar": "^2.0.0",
-    "vue": "^3.0.0",
+    "vue": "^3.3.4",
     "vue-router": "^4.0.0"
   },
   "devDependencies": {
